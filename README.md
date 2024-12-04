@@ -1,7 +1,7 @@
 # Flush Casino Logos
-Flush is a popular cryptocurrency based online casino which offers a wide variety of games and bonuses. These include online slots (link to slots), baccarat, poker, roulette, blackjack, races, live casino (link to the live casino) and the famous Flush Originals.
+Flush is a popular cryptocurrency based online casino which offers a wide variety of games and bonuses. These include online slots, baccarat, poker, roulette, blackjack, races, live casino and the famous Flush Originals.
 
-The Flush Blog (link to blog) is your go-to-source for cryptocurrency news and guides. Great to assist newcomers in their crypto journey but also experienced hodlers with updates from the all-changing crypto world.
+The Flush Blog is your go-to-source for cryptocurrency news and guides. Great to assist newcomers in their crypto journey but also experienced hodlers with updates from the all-changing crypto world.
 
 ## Overview
 This collection of Flush Crypto Casinos Logos was created for both members of the Flush team as well as third parties as long as they comply with Flush Guidelines.
@@ -27,7 +27,7 @@ Joint Photographic Experts Group (JPEGs or JPGs) is an old specification release
 Scalable Vector Graphics (SVGs) use XML-based text to shape the designs and colors of an image. This makes SVGs ideal for web graphics including logos and icons. While SVGs are designer favorites they can be easily used by professional and amateur users of the web. Key characteristics is that SVG files retain their high quality at any size with relatively small file size but they aren't compatible with older web browsers.
 
 # How to use them
-Download the zip file where a collection of logos is stored in PNG, JPG and SVG formats. Choose the size and the format best suited for your needs. If you aren't sure of which one to use, contact a member of the Flush Casino (link to the homepage) team and they will make the appropriate suggestions.
+Download the zip file where a collection of logos is stored in PNG, JPG and SVG formats. Choose the size and the format best suited for your needs. If you aren't sure of which one to use, contact a member of the Flush Casino team and they will make the appropriate suggestions.
 
 ## Terms of Use
 Use of the logos to bid on Flush brand keywords is not permitted.Flush reserves the right to request removal at any time, if the terms have been breached. If a member of the Flush Casino team contacts you asking to bring down the Flush logos you downloaded from Github, you must comply immediately.
